@@ -24,4 +24,4 @@ let someNumber = false
 let thissomeNumnber = String(someNumber)
 console.log(thissomeNumnber);
 
-//so all values can be converted into string and there is no condition
+//so all values can be converted into string and there is no condition.
