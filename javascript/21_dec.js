@@ -1,8 +1,7 @@
-const myObject = {
-  city: "Madrid",
-  greet() {
-    console.log(`Greetings from ${this.city}`);
-  },
-};
+let user = {
+    name: "Abhishek",
+    age : 20,
+    "likes games": true
+}
 
-myObject.greet(); // Greetings from Madrid
+console.log(user);
